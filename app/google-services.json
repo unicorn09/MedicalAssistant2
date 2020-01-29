@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1026560479044",
+    "firebase_url": "https://medicalassistant2-8767a.firebaseio.com",
+    "project_id": "medicalassistant2-8767a",
+    "storage_bucket": "medicalassistant2-8767a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026560479044:android:0908f0ae4a191305",
+        "android_client_info": {
+          "package_name": "com.example.dell.medicalassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026560479044-m40kerenr7gj3vqgrvtqcbjs9hesf2gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80K1v-mKqNNX1b7zmLEaqdwDbLsxjat0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

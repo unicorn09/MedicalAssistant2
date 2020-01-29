@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="xrays"
+        android:id="@+id/xrays1"></item>
+    <item android:title="Mris"
+        android:id="@+id/mris1"></item>
+    <item android:title="prescriptions"
+        android:id="@+id/pres1"></item>
+    <item android:id="@+id/oth1" android:title="others"></item>
+
+</menu>
